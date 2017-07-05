@@ -1,0 +1,12 @@
+.modal-footer {  
+	border-top: 0px; 
+}
+#loginImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#positionLogin{
+    position: absolute;
+    left: 123px;
+}
